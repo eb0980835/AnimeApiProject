@@ -17,7 +17,8 @@ struct ApiInfoView: View {
                     .font(.largeTitle.bold())
                     .padding()
                 Text("Jikan REST API")
-                Text("https://docs.api.jikan.moe/#/anime")
+                Text("Jikan - Unofficial MyAnimeList API")
+                Text("https://jikan.moe/")
                 Text("Emma Blaylock")
             }
             .padding()
